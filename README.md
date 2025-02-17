@@ -2,13 +2,13 @@
 My name is Gregorio Frassoldati, and this GitHub repo extends my resumé.
 Hereafter is the complete personal bibliography for my Curriculum Vitae.
 
-Journal Papers:
+### Journal Papers:
 
 * "Unsteady Lifting-Line Free-Wake Aerodynamic Modeling for Morphing Wings," Gregorio Frassoldati and Riccardo Giansante and Giovanni Bernardini and Massimo Gennaretti,
 _Aerospace_, 2024, https://www.mdpi.com/2226-4310/11/9/745
 
 * "Unsteady Lifting-Line Free-Wake Aerodynamic Modeling for Rotors in Axial Flight," Gregorio Frassoldati and Riccardo Giansante and Giovanni Bernardini and Massimo Gennaretti,
-_Aerospace_, 2025, ++ next publication ++
+_Aerospace_, 2025, ** <span style="color: green"> next publication </span> **
 
 * "The effects of turbulence modeling on dynamic stall," Giacomo Baldan and Francesco Manara and Gregorio Frassoldati and Alberto Guardone,
 _Acta Mechanica_, 2025, https://link.springer.com/article/10.1007/s00707-025-04232-w
@@ -16,7 +16,7 @@ _Acta Mechanica_, 2025, https://link.springer.com/article/10.1007/s00707-025-042
 * "Assessment and Optimization of Dynamic Stall Semi-empirical Model for Pitching Aerofoils," Enrico Galli and Gregorio Frassoldati and Davide Prederi and Giuseppe Quaranta,
 _Aerotecnica Missili & Spazio_, 2024, https://www.researchgate.net/publication/375178159_Assessment_and_optimization_of_dynamic_stall_semi-empirical_model_for_pitching_aerofoils
 
-Conference Papers:
+### Conference Papers:
 * "ABL Inclusion Effects on Rotor Airloads Simulations in a Shipborne Environment," Gregorio Frassoldati and Cristiano Capizzi, 
 _Proceedings of 50th ERF_, 2024, Marseille, France, https://www.3af-erf2024.com/programme
 

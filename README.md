@@ -1,12 +1,8 @@
 # gregfras.github.io
 Complete personal bibliography for my Curriculum Vitae:
 
-@article{greg1,
-    title = {Unsteady Lifting-Line Free-Wake Aerodynamic Modeling for Morphing Wings},
-    author = {Gregorio Frassoldati and Riccardo Giansante and Giovanni Bernardini and Massimo Gennaretti},
-    journal = {Aerospace},
-    year = {2024}
-}
+"Unsteady Lifting-Line Free-Wake Aerodynamic Modeling for Morphing Wings," Gregorio Frassoldati and Riccardo Giansante and Giovanni Bernardini and Massimo Gennaretti,
+_Aerospace_, 2024, https://www.mdpi.com/2226-4310/11/9/745
 
 @article{greg2,
     title = {Unsteady Lifting-Line Free-Wake Aerodynamic Modeling for Rotors in Axial Flight},

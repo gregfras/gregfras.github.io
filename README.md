@@ -23,7 +23,7 @@ _Proceedings of the 81th VFS Forum_, 2025, Virginia Beach, USA, <span style="col
 * "ABL Inclusion Effects on Rotor Airloads Simulations in a Shipborne Environment," Gregorio Frassoldati and Cristiano Capizzi, 
 _Proceedings of the 50th ERF_, 2024, Marseille, France, [hyperlink](https://www.3af-erf2024.com/programme)
 
-* _Lichten Award Winning Paper_ "Correlation of Rotor Loads during Ground Operations in a Turbulent Wind Environment," Cristiano Maria Capizzi and Giuseppe Bucciaglia and Gregorio Frassoldati and Davide Prederi,
+* <ins>Lichten Award Winning Paper:</ins> "Correlation of Rotor Loads during Ground Operations in a Turbulent Wind Environment," Cristiano Maria Capizzi and Giuseppe Bucciaglia and Gregorio Frassoldati and Davide Prederi,
 _Proceedings of the 80th VFS Forum_, 2024, Montreal, Canada, [hyperlink](https://doi.org/10.4050/F-0080-2024-1153)
 
 * "Exploiting of Virtual Blade Modelling on the performance study of a shrouded tail rotor," Elena Cerudelli and Christian Spiess and Gregorio Frassoldati and James Barber,

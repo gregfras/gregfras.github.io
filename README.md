@@ -1,12 +1,14 @@
 # gregfras.github.io
-Complete personal bibliography for my Curriculum Vitae.
+My name is Gregorio Frassoldati, and this GitHub repo extends my resumé.
+Hereafter is the complete personal bibliography for my Curriculum Vitae.
+
 Journal Papers:
 
 * "Unsteady Lifting-Line Free-Wake Aerodynamic Modeling for Morphing Wings," Gregorio Frassoldati and Riccardo Giansante and Giovanni Bernardini and Massimo Gennaretti,
 _Aerospace_, 2024, https://www.mdpi.com/2226-4310/11/9/745
 
 * "Unsteady Lifting-Line Free-Wake Aerodynamic Modeling for Rotors in Axial Flight," Gregorio Frassoldati and Riccardo Giansante and Giovanni Bernardini and Massimo Gennaretti,
-_Aerospace_, 2025, <span style="color: green"> next publication </span>
+_Aerospace_, 2025, <span style="color: green"> **next publication** </span>
 
 * "The effects of turbulence modeling on dynamic stall," Giacomo Baldan and Francesco Manara and Gregorio Frassoldati and Alberto Guardone,
 _Acta Mechanica_, 2025, https://link.springer.com/article/10.1007/s00707-025-04232-w
@@ -31,4 +33,4 @@ _Proceedings of the 80th VFS Forum_, 2024, Montreal, Canada, https://doi.org/10.
 _Proceedings of the 79th VFS Forum_, 2023, West Palm Beach, USA, https://doi.org/10.4050/F-0079-2023-18120
 
 * "A Hover Driven Approach to eVTOL Aircraft Design," Gregorio Frassoldati and Luca Caccetta and Francesco Landi,
-_Proceedings of the 81th VFS Forum_, 2025, Virginia Beach, USA, <span style="color: green"> next publication </span>
+_Proceedings of the 81th VFS Forum_, 2025, Virginia Beach, USA, <span style="color: green"> **next publication** </span>

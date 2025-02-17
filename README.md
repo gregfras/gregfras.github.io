@@ -8,7 +8,7 @@ Journal Papers:
 _Aerospace_, 2024, https://www.mdpi.com/2226-4310/11/9/745
 
 * "Unsteady Lifting-Line Free-Wake Aerodynamic Modeling for Rotors in Axial Flight," Gregorio Frassoldati and Riccardo Giansante and Giovanni Bernardini and Massimo Gennaretti,
-_Aerospace_, 2025, <span style="color: green"> **next publication** </span>
+_Aerospace_, 2025, ++next publication++
 
 * "The effects of turbulence modeling on dynamic stall," Giacomo Baldan and Francesco Manara and Gregorio Frassoldati and Alberto Guardone,
 _Acta Mechanica_, 2025, https://link.springer.com/article/10.1007/s00707-025-04232-w

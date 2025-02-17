@@ -1,5 +1,5 @@
 # gregfras.github.io
-My name is Gregorio Frassoldati, and this GitHub repo extends my resumé.
+My name is Gregorio Frassoldati, and this GitHub repo extends my resumé.  
 Hereafter is the complete personal bibliography for my Curriculum Vitae.
 
 ### Journal Papers:

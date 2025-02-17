@@ -1,5 +1,5 @@
 # gregfras.github.io
-My name is Gregorio Frassoldati, and this GitHub repo extends my resumé ([https://orcid.org/0009-0001-9029-5337]).  
+My name is Gregorio Frassoldati, and this GitHub repo extends my resumé [ORCID] (https://orcid.org/0009-0001-9029-5337).  
 Hereafter is the complete personal bibliography for my Curriculum Vitae.
 
 ### Journal Papers:

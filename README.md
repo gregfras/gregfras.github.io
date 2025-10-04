@@ -5,7 +5,7 @@ Hereafter is the complete personal bibliography for my Curriculum Vitae.
 ### Journal Papers:
 
 * "Unsteady Lifting-Line Free-Wake Aerodynamic Modeling for Rotors in Axial Flight," Gregorio Frassoldati and Riccardo Giansante and Giovanni Bernardini and Massimo Gennaretti,
-_Aerospace_, 2025, <span style="color: green"> **next publication** </span>
+_Under Review_, 2025, <span style="color: green"> **next publication** </span>
 
 * "The effects of turbulence modeling on dynamic stall," Giacomo Baldan and Francesco Manara and Gregorio Frassoldati and Alberto Guardone,
 _Acta Mechanica_, 2025, [hyperlink](https://link.springer.com/article/10.1007/s00707-025-04232-w)
@@ -17,8 +17,11 @@ _Aerospace_, 2024, [hyperlink](https://www.mdpi.com/2226-4310/11/9/745)
 _Aerotecnica Missili & Spazio_, 2024, [hyperlink](https://www.researchgate.net/publication/375178159_Assessment_and_optimization_of_dynamic_stall_semi-empirical_model_for_pitching_aerofoils)
 
 ### Conference Papers:
+* "An Innovative Lifting-Line Model for Proprotors in Axial Flight," Gregorio Frassoldati and Giovanni Bernardini and Massimo Gennaretti, 
+_Proceedings of the 51th ERF_, 2025, Venice, Italy, [hyperlink](https://www.erf2025.com/programme/)
+
 * "A Hover Driven Approach to eVTOL Aircraft Design," Gregorio Frassoldati and Luca Caccetta and Francesco Landi,
-_Proceedings of the 81th VFS Forum_, 2025, Virginia Beach, USA, <span style="color: green"> **next publication** </span>
+_Proceedings of the 81th VFS Forum_, 2025, Virginia Beach, USA, [hyperlink](https://proceedings.vtol.org/81/forum81)
 
 * "ABL Inclusion Effects on Rotor Airloads Simulations in a Shipborne Environment," Gregorio Frassoldati and Cristiano Capizzi, 
 _Proceedings of the 50th ERF_, 2024, Marseille, France, [hyperlink](https://www.3af-erf2024.com/programme)

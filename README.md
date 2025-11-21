@@ -1,6 +1,7 @@
 # gregfras.github.io
-My name is Gregorio Frassoldati, and this GitHub repo extends my resumé [ORCID](https://orcid.org/0009-0001-9029-5337).  
-Hereafter is the complete personal bibliography for my Curriculum Vitae.
+
+My name is Gregorio Frassoldati and I am a researcher in numerical aerodynamics and computational modeling. 
+This page complements my résumé and [ORCID](https://orcid.org/0009-0001-9029-5337) by providing a full bibliography of my publications.
 
 ### Journal Papers:
 
